@@ -1,6 +1,6 @@
-# 10th-template
+# LLM_AI_app
 
-<h1 align="center"> 10th Template </h1>
+<h1 align="center"> LLM_AI_app </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
@@ -17,11 +17,11 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-> Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
+> Welcome to the LLM_AI_app repository! Our goal is to explore the fundamentals of LLM with RAG to develop AI services, providing tools and frameworks for RAG and chatbots. Join us in advancing the field of LLM through open collaboration and innovation!
 
 ## 🌟 프로젝트 목표 (Project Vision)
-_"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
-- Graph-based RAG 스터디 및 프로젝트
+_"기초부터 실습까지, 함께 성장하는 LLM 실험실"_  
+- LLM의 개념, 원리, 사례 & LangChain 사용법 탐구
 - 개인 성장과 집단 지혜의 시너지 창출
 - 오픈소스 정신을 바탕으로 한 지식 공유 문화
 - 실패를 성공의 디딤돌로 만드는 실험적 접근
@@ -31,7 +31,7 @@ _"이론에서 실전까지, 함께 성장하는 AI 실험실"_
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 김찬란 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI/추천 시스템 최적화             |
+| **Project Manager** | 권선옥 | ![Python](https://img.shields.io/badge/Python-3776AB) ![BigQuery](https://img.shields.io/badge/PyTorch-EE4C2C) | LLM/NLP             |
 | **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
 
 
@@ -63,9 +63,8 @@ class CollaborationFramework:
     
     def workflow(self):
         return """주간 사이클:
-        1️⃣ 월요일: 스프린트 플래닝 (Notion 타임라인 공유)
-        2️⃣ 수요일: 코드 리뷰 세션 (Live Share)
-        3️⃣ 금요일: 데모데이 (실제 적용 사례 발표)"""
+        1️⃣ 스터디 내용 발표 : 요약 + 코드 설명
+        2️⃣ 스터디 내용 리뷰 : 더 공부하고 싶은 내용, 이슈, 어려웠던 점 등 공유 """
 ```
 
 
@@ -73,30 +72,31 @@ class CollaborationFramework:
 **2024 주요 KPI**  
 | 지표                     | 목표치 | 현재 달성률 |
 |--------------------------|--------|-------------|
-| 커밋 수                  | 1,200  | 83%         |
-| 이슈 해결률              | 95%    | 89%         | 
-| 기술 블로그 게시물       | 24편   | 15편        |
-| 오픈소스 기여도          | 8회    | 5회         |
+| 커밋 수                  | 각자 매주 1회  | 0%         |
 
 
 ## 💻 주차별 활동 (Activity History)
 
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
-| 2025/02/ | OT       |      |
-| 2025/02/ |  Part 1. | 미정 | 
-| 2025/02/ |  Part 2. | 미정 | 
-| 2025/02/ |  Part 3. | 미정 | 
-| 2025/03/ |  Part 4. | 미정 | 
-| 2025/03/ |  Part 5. | 미정 | 
+| 2025/03/04 | OT       | ALL |
+| 2025/03/11 |  1.1 LLM 개념 ~ 1.2 LLM 특징과 종류 | 미정 | 
+| 2025/03/18 |  1.3 LLM 생성 과정 ~ 1.4 LLM 생성 후 추가 고려 사항 | 미정 | 
+| 2025/03/25 |  2.1 LLM 활용 방법 ~ 2.3 LLM의 한계 | 미정 | 
+| 2025/04/01 |  3.1 RAG 개념 ~ 3.2 RAG 구현 과정 | 미정 | 
+| 2025/04/08 |  3.3 RAG 구현 시 필요한 것 | 미정 | 
+| 2025/04/15 |  4.1 랭체인 훑어보기, 4.3 랭체인 주요 모듈 (✅ 4.2 랭체인을 사용하기 위한 환경 구성은 모든 구성원 전체 수행) | 미정 | 
+| 2025/04/22 |  5.1 간단한 챗봇 만들기, 5.2 RAG 기반의 챗봇 만들기 | 미정 |
+| 2025/04/28 |  5.3 PDF 요약 웹사이트 만들기, 5.4 독립형 질문 챗봇 만들기 | 미정 |
+| 2025/05/06 |  어린이날(대체휴일) | 휴일 |
+| 2025/05/13 |  5.5 대화형 챗봇 만들기, 5.6 번역 서비스 만들기 | 미정 | 
+| 2025/05/20 |  5.7 메일 작성기 만들기, 5.8 CSV 파일 분석하기(마지막) | 미정 | 
 
 
 
 ## 💡 학습 자원 (Learning Resources)
-**우리가 만든 지식 허브**  
-- [AI Playbook](https://github.com/your-org/ai-playbook): 150+ 페이지의 실전 가이드
-- [MLOps Pipeline Template](https://github.com/your-org/mlops-template): 재사용 가능한 인프라 코드
-- [Failure Journal](https://your-org.github.io/failure-journal): 50+개의 실패 사례 분석 [31][34]
+
+- [교재](https://www.google.co.kr/books/edition/%EB%9E%AD%EC%B2%B4%EC%9D%B8%EC%9C%BC%EB%A1%9C_LLM_%EA%B8%B0%EB%B0%98%EC%9D%98_AI_%EC%84%9C%EB%B9%84/XPr6EAAAQBAJ?hl=ko&gbpv=0): 스터디 기초 교재(준비 필수!)
 
 
 ## 🌱 참여 안내 (How to Engage)
@@ -104,9 +104,9 @@ class CollaborationFramework:
 - 링크 (준비중)
 
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
-1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-GH 채널로 입장
+1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-?? 채널로 입장
 2. Magical Week 중 행사에 참가
-3. Pseudo Lab 행사에서 만나기
+3. Pseudo Lab(5/17) 행사에서 만나기
 
 ## Acknowledgement 🙏
 
