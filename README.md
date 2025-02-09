@@ -31,7 +31,7 @@ _"기초부터 실습까지, 함께 성장하는 LLM 실험실"_
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 권선옥 | ![Python](https://img.shields.io/badge/Python-3776AB) ![BigQuery](https://img.shields.io/badge/PyTorch-EE4C2C) | LLM/NLP             |
+| **Project Manager** | 권선옥 | ![Python](https://img.shields.io/badge/Python-3776AB) ![BigQuery](https://img.shields.io/badge/BigQuery-EE4C2C) | LLM/NLP             |
 | **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
 
 
