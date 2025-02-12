@@ -35,19 +35,6 @@ _"기초부터 실습까지, 함께 성장하는 LLM 실험실"_
 | **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
 
 
-## 🚀 프로젝트 로드맵 (Project Roadmap)
-```mermaid
-gantt
-    title 2025 AI 프로젝트 여정
-    section 핵심 마일스톤
-    이론 연구       :a1, 2025-09-01, 30d
-    MVP 개발        :a2, after a1, 45d
-    프로덕션 적용    :a3, after a2, 30d
-    section 부가 활동
-    기술 세미나     :2025-10-15, 7d
-    해커톤         :2025-11-20, 3d
-```
-
 
 ## 🛠️ 우리의 개발 문화 (Our Development Culture)
 **우리의 개발 문화**  
@@ -109,9 +96,6 @@ class CollaborationFramework:
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab(5/17) 행사에서 만나기
 
-## Acknowledgement 🙏
-
-OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
 ## About Pseudo Lab 👋🏼</h2>
 
