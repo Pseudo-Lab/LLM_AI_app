@@ -1,6 +1,9 @@
-# LLM_AI_app
+
+# LLM 기초부터 간단한 AI 서비스 직접 개발해보기
+
 
 <h1 align="center"> LLM_AI_app </h1>
+<h3 align="center"> #LLM #RAG #LangChain🦜⛓️ #ChatBot🤖 #OpenAI </h3>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
@@ -21,7 +24,7 @@
 
 ## 🌟 프로젝트 목표 (Project Vision)
 _"기초부터 실습까지, 함께 성장하는 LLM 실험실"_  
-- LLM의 개념, 원리, 사례 & LangChain 사용법 탐구
+- LLM의 개념, 원리, 사례 & LangChain 사용법 탐구(OpenAI API 활용)
 - 개인 성장과 집단 지혜의 시너지 창출
 - 오픈소스 정신을 바탕으로 한 지식 공유 문화
 - 실패를 성공의 디딤돌로 만드는 실험적 접근
