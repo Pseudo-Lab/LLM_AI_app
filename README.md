@@ -64,6 +64,8 @@ class CollaborationFramework:
 
 ## 💻 주차별 활동 (Activity History)
 - 스터디 모임 일정 : 매주 화요일 오후 9시 🕘
+- 발표는 개인별 최소 2회 이상 진행 예정이며, 교재(하단 '학습 자원' 참고) 기반 1) 주요 내용 요약 & 2) 코드 시연 등으로 구성됩니다.
+  - 발표 자료는 발표자가 직접 제작 후 스터디 전날까지 github에 공유합니다. 
 
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
@@ -97,13 +99,19 @@ class CollaborationFramework:
 3. Pseudo Lab(5/17) 행사에서 만나기
 
 
+## 🔎 팀원을 찾습니다!
+- Python 기초 개념을 다지신 분
+- LLM을 활용한 서비스에 대해 관심이 많고 직접 만들어 보고 싶은 분(LLM을 어떻게 활용하고 싶은지, 왜 필요한지에 대한 생각이 구체적이면 더 좋습니다)
+- 스터디를 충실하게 참여할 수 있는 분(발표 자료 제작 등 시간 엄수가 가능한 분)⭐️
+
+
 ## About Pseudo Lab 👋🏼</h2>
 
 [Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
 
 <h2>Contributors 😃</h2>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/10th-template" />
+<a href="https://github.com/sunohk/Portfolio_sunohk/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sunohk/Portfolio_sunohk" />
 </a>
 <br><br>
 
