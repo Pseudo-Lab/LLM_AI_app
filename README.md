@@ -20,14 +20,22 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-> Welcome to the LLM_AI_app repository! Our goal is to explore the fundamentals of LLM with RAG to develop AI services, providing tools and frameworks for RAG and chatbots. Join us in advancing the field of LLM through open collaboration and innovation!
+> LLM(Large Language Model)은 인간의 언어를 처리하는 모델로 방대한 양의 데이터로 사전 학습된 초대형 딥러닝 모델입니다. ChatGPT가 세상의 관심을 받게 되면서 'LLM'에 대한 관심도 높아지고 있죠! 다양한 기업에서는 LLM을 활용하여 이미 우리에게 익숙한 `챗봇 서비스` 등 솔루션을 만들고 있습니다. LLM의 기초를 학습하고 직접 서비스를 개발해보면서 막연하게 알고 있던 LLM을 직접 활용할 수 있는 '도구'로 바꿔보면 어떨까요?
 
 ## 🌟 프로젝트 목표 (Project Vision)
 _"기초부터 실습까지, 함께 성장하는 LLM 실험실"_  
 - LLM의 개념, 원리, 사례 & LangChain 사용법 탐구(OpenAI API 활용)
-- 개인 성장과 집단 지혜의 시너지 창출
-- 오픈소스 정신을 바탕으로 한 지식 공유 문화
-- 실패를 성공의 디딤돌로 만드는 실험적 접근
+- 자신만의 LLM을 활용 AI solution에 대한 구체적 기획 및 개발
+
+## 📝 프로젝트 진행 방식
+- LLM 기초 도서 1권을 3개월동안 꼭꼭 씹어먹듯 완독한다.
+   
+   1. 도서의 내용을 발표할 수 있도록 요약 자료를 만들고 조원들에게 발표한다.
+   2. 다양한 실습 코드를 직접 작성하며 따라하는 것을 넘어 자신만의 솔루션을 만들어본다.
+
+## ✅ 프로젝트를 통해 얻을 수 있는 가치
+- LLM의 기초를 다룬 책을 읽고 스스로 요약 및 발표 자료를 만듦으로써 개념을 직접 설명할 수 있다(남을 가르치면서 배우기)
+- LLM에 대해 이론 학습에서 끝나는 것이 아니라 실습을 통해 직접 응용/활용할 수 있다
 
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
