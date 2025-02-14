@@ -90,7 +90,9 @@ class CollaborationFramework:
 
 ## 💡 학습 자원 (Learning Resources)
 
-- [교재](https://www.google.co.kr/books/edition/%EB%9E%AD%EC%B2%B4%EC%9D%B8%EC%9C%BC%EB%A1%9C_LLM_%EA%B8%B0%EB%B0%98%EC%9D%98_AI_%EC%84%9C%EB%B9%84/XPr6EAAAQBAJ?hl=ko&gbpv=0) <랭체인으로 LLM 기반의 AI 서비스 개발하기> : 스터디 기초 교재(준비 필수!)
+- [랭체인으로 LLM 기반의 AI 서비스 개발하기](https://www.google.co.kr/books/edition/%EB%9E%AD%EC%B2%B4%EC%9D%B8%EC%9C%BC%EB%A1%9C_LLM_%EA%B8%B0%EB%B0%98%EC%9D%98_AI_%EC%84%9C%EB%B9%84/XPr6EAAAQBAJ?hl=ko&gbpv=0) : 스터디 기초 교재(준비 필수!)
+
+<img src="https://books.google.co.kr/books/publisher/content?id=XPr6EAAAQBAJ&hl=ko&pg=PA1&img=1&zoom=3&bul=1&sig=ACfU3U39czwCoXaIotahtcErCYUfPzA_9g&w=1280" width="300">
 
 
 ## 🌱 참여 안내 (How to Engage)
