@@ -67,7 +67,7 @@ class CollaborationFramework:
 
 
 ## 📈 성과 지표 (Achievement Metrics)
-**2024 주요 KPI**  
+**2025 주요 KPI**  
 | 지표                     | 목표치 | 현재 달성률 |
 |--------------------------|--------|-------------|
 | 커밋 수                  | 각자 매주 1회  | 0%         |
@@ -94,7 +94,9 @@ class CollaborationFramework:
 | 2025/05/17 |  🔮 PseudoCon 🔮(가짜연구소 컨퍼런스 행사) |  |
 | 2025/05/20 |  5.7 메일 작성기 만들기 ~ 5.8 CSV 파일 분석하기(마지막) | 미정 | 
 
-
+### 프로젝트 실습을 통해 얻을 수 있는 결과물(예시)
+- 총 8개의 mini-ai app을 만들 수 있습니다.
+<img src="https://i.postimg.cc/Vkmbbg9J/image.png" width="910">
 
 ## 💡 학습 자원 (Learning Resources)
 
