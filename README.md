@@ -95,15 +95,18 @@ class CollaborationFramework:
 | 2025/05/20 |  5.7 메일 작성기 만들기 ~ 5.8 CSV 파일 분석하기(마지막) | 미정 | 
 
 ### 프로젝트 실습을 통해 얻을 수 있는 결과물(예시)
-- 총 8개의 mini-ai app을 만들 수 있습니다.
+- 총 8개의 mini-ai app을 만들 수 있습니다(+ 책 내용을 바탕으로 자신만의 ai-app도 만들 수 있습니다)
 <img src="https://i.postimg.cc/Vkmbbg9J/image.png" width="910">
 
+> 이미지 출처 : 직접 제작
+  
 ## 💡 학습 자원 (Learning Resources)
 
 - [랭체인으로 LLM 기반의 AI 서비스 개발하기](https://www.google.co.kr/books/edition/%EB%9E%AD%EC%B2%B4%EC%9D%B8%EC%9C%BC%EB%A1%9C_LLM_%EA%B8%B0%EB%B0%98%EC%9D%98_AI_%EC%84%9C%EB%B9%84/XPr6EAAAQBAJ?hl=ko&gbpv=0) : 스터디 기초 교재(준비 필수!)
 
 <img src="https://books.google.co.kr/books/publisher/content?id=XPr6EAAAQBAJ&hl=ko&pg=PA1&img=1&zoom=3&bul=1&sig=ACfU3U39czwCoXaIotahtcErCYUfPzA_9g&w=1280" width="300">
 
+> 이미지 출처 : Google books
 
 ## 🌱 참여 안내 (How to Engage)
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
