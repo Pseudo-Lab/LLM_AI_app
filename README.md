@@ -8,11 +8,11 @@
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
 <a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/10th-template" alt="Stars Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/10th-template" alt="Forks Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/10th-template" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/10th-template" alt="Issues Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/10th-template?color=2b9348"></a>
+<a href="https://github.com/Pseudo-Lab/LLM_AI_app/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/LLM_AI_app" alt="Stars Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/LLM_AI_app/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/LLM_AI_app" alt="Forks Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/LLM_AI_app/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/LLM_AI_app" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/LLM_AI_app/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/LLM_AI_app" alt="Issues Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/LLM_AI_app/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/LLM_AI_app?color=2b9348"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpseudo-lab%2F10th-template&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 <br>
@@ -113,7 +113,7 @@ class CollaborationFramework:
 - 링크 (준비중)
 
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
-1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-AN 채널로 입장
+1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-AK 채널로 입장
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab(5/17) 행사에서 만나기
 
