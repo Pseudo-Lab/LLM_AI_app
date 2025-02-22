@@ -96,7 +96,7 @@ class CollaborationFramework:
 
 ### 프로젝트 실습을 통해 얻을 수 있는 결과물(예시)
 - 총 8개의 mini-ai app을 만들 수 있습니다(+ 책 내용을 바탕으로 자신만의 ai-app도 만들 수 있습니다)
-<img src="https://i.postimg.cc/Vkmbbg9J/image.png" width="910">
+<img src="https://i.postimg.cc/02RNNnTG/example-image.png" width="910">
 
 > 이미지 출처 : 직접 제작
   
