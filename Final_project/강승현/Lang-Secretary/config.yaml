@@ -1,0 +1,31 @@
+# Deploy
+port:
+  streamlit: 8501 # fixed
+  fastapi: 8000
+  weather_mcp: 7000
+
+
+# DB Part
+sqlite3:
+  save_path: ./storage/sqlite3/db.sqlite3
+
+
+chroma:
+  save_path: ./storage/chroma
+
+  load:
+    chunk_size: 1000
+    overlap_size: 50
+
+  search:
+    top_k: 5
+    mmr_threshold: 0.6
+
+
+normal_storage:
+  save_path: ./storage/paper
+
+
+
+
+
